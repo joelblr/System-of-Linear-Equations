@@ -1,5 +1,5 @@
 #	Program to Check if a given Augmented Matrix is Consistent.
-
+#comment
 ##	To Check if a given Augmented Matrix is Consistent.
 def consistent(matrix) :
 
